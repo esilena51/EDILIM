@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Tipos de moradia</titulo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>16</tipo>
+              <externa><![CDATA[&lt;iframe style=&quot;max-width:100%&quot; src=&quot;https://wordwall.net/embed/play/117942/607/519&quot; width=&quot;1000&quot; height=&quot;780&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;]]></externa>
+        </paxina>
+        <paxina id="2" >
+              <tipo>16</tipo>
+              <externa><![CDATA[&lt;iframe style=&quot;max-width:100%&quot; src=&quot;https://wordwall.net/pt/embed/e938be4babda4387a48acd99ceab2c50?themeId=1&amp;templateId=38&amp;fontStackId=0&quot; width=&quot;1000&quot; height=&quot;780&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;]]></externa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>16</tipo>
+              <externa><![CDATA[&lt;iframe style=&quot;max-width:100%&quot; src=&quot;https://wordwall.net/pt/embed/9bc7321750374364bf670416a204569b?themeId=1&amp;templateId=3&amp;fontStackId=0&quot; width=&quot;1000&quot; height=&quot;780&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;]]></externa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>16</tipo>
+              <externa><![CDATA[&lt;iframe style=&quot;max-width:100%&quot; src=&quot;https://wordwall.net/pt/embed/b9421f606b95458f92130bf890407ffc?themeId=65&amp;templateId=25&amp;fontStackId=0&quot; width=&quot;1000&quot; height=&quot;780&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;]]></externa>
+        </paxina>
+    </libro>
+</lim>
